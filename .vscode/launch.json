@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Admin/Desktop/New folder/sorting_algorithms",
-      "program": "c:/Users/Admin/Desktop/New folder/sorting_algorithms/build/Debug/outDebug",
+      "cwd": "c:/Users/Admin/Desktop/New folder/sorting_algorithms/sorting_algorithms",
+      "program": "c:/Users/Admin/Desktop/New folder/sorting_algorithms/sorting_algorithms/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
